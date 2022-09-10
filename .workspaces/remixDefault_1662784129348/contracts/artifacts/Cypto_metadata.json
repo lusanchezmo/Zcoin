@@ -1,0 +1,56 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "estaFirmado",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Crypto.sol": "Cypto"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Crypto.sol": {
+			"keccak256": "0x182c29f09e54c30321d6f1f824fef33871a0f514bfcf39ceb1bd94eb9903282d",
+			"urls": [
+				"bzz-raw://0cecb018ffb014c6b38c5eaa7bd210e318fbe8e1bfcb5b836d70c1ef36d00e3a",
+				"dweb:/ipfs/Qmf5ZT6TLxnVDw5pQTKN8Z2hLpfvpFYdJEb2NYLnJ51qmV"
+			]
+		}
+	},
+	"version": 1
+}

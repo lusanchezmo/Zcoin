@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Crypto.sol": "Crypto"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Crypto.sol": {
+			"keccak256": "0x3c25c38ed993334d2e0324f62dc481980cfe7d475f6bbb3ed1e8c54334666de2",
+			"urls": [
+				"bzz-raw://35841a307c9d37f6ca7bafe2e8b55b525a1b11c1bfbe39026bd3b498bde59c4a",
+				"dweb:/ipfs/Qme5oHgKYdnjMMgdaHRD7SkQ1gbrRUkwGu1VuDopi9Q9k3"
+			]
+		}
+	},
+	"version": 1
+}
